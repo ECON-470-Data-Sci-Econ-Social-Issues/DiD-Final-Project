@@ -11,14 +11,15 @@ and plot them against relative importance.
 
 
 **Datasets & Code:**
-didset.sas - cleans source data from ARCOS Database provided by the Washington Post
 
-didset.csv - cleaned data from didset.sas
+- didset.sas - cleans source data from ARCOS Database provided by the Washington Post
 
-replication.ipynb - reads in the data from diddata.sas7bdat
+- didset.csv - cleaned data from didset.sas
 
-machinelearning.ipynb - uses the GradientBoostingRegressor library from scikit-learn to generate a model for evaluating feature performance
+- replication.ipynb - reads in the data from diddata.sas7bdat
 
-finalreport.pdf - report of the project 
+- machinelearning.ipynb - uses the GradientBoostingRegressor library from scikit-learn to generate a model for evaluating feature performance
 
-finalposter.pdf - poster presentation of the project
+- finalreport.pdf - report of the project 
+
+- finalposter.pdf - poster presentation of the project
