@@ -19,3 +19,9 @@ and plot them against relative importance.
 - finalreport.pdf - report of the project 
 
 - finalposter.pdf - poster presentation of the project
+
+**Google Colab Links:**
+
+Replication: https://colab.research.google.com/drive/1LerkZkSF5mzo6oaIx47ZGoN7cYeO8mkd?usp=sharing
+
+Machine Learning: https://colab.research.google.com/drive/1EhvYjA2g0CYWcxg4iHvGE2sq6Il7TP3W?usp=sharing
