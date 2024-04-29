@@ -18,7 +18,7 @@ and plot them against relative importance.
 
 - finalreport.pdf - report of the project 
 
-- finalposter.pdf - poster presentation of the project
+- Final_Poster.pdf - poster presentation of the project
 
 **Google Colab Links:**
 
