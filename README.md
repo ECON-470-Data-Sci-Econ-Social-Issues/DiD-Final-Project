@@ -12,9 +12,9 @@ and plot them against relative importance.
 
 **Datasets & Code:**
 
-- replication.ipynb - reads in the data from diddata.sas7bdat
+- Replication.ipynb - reads in the data from diddata.sas7bdat
 
-- machinelearning.ipynb - uses the GradientBoostingRegressor library from scikit-learn to generate a model for evaluating feature performance
+- Machine_Learning.ipynb - uses the GradientBoostingRegressor library from scikit-learn to generate a model for evaluating feature performance
 
 - finalreport.pdf - report of the project 
 
