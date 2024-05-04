@@ -20,8 +20,14 @@ and plot them against relative importance.
 
 - Final_Poster.pdf - poster presentation of the project
 
+- Combating the Opioid Crisis: Insights from Machine Learning 
+
 **Google Colab Links:**
 
 Replication: https://colab.research.google.com/drive/1LerkZkSF5mzo6oaIx47ZGoN7cYeO8mkd?usp=sharing
 
 Machine Learning: https://colab.research.google.com/drive/1EhvYjA2g0CYWcxg4iHvGE2sq6Il7TP3W?usp=sharing
+
+**Overleaf Poster Link:**
+
+https://www.overleaf.com/read/ygdfxkxpcnst#484afa
